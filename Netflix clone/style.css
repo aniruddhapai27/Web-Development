@@ -161,12 +161,8 @@ nav button {
   /* height: 35vw; */
 }
 @media screen and (max-width: 1200px) {
-  body {
-    /* background-color: red; */
-  }
   .first {
     flex-wrap: wrap;
-    /* overflow: hidden; */
   }
 }
 
